@@ -5,3 +5,4 @@ Description:
  - Credentials file is stored in User profile ~/.aws directory.
  - If Credentials are going to expire in less then 5 mins, user needs to provide UID/Token/Password again
  
+TEST
